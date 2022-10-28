@@ -1,1 +1,3 @@
-# barbadiyaan-music-player
+# Music-player
+Features:
+1.Play/Puse 
